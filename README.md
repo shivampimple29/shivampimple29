@@ -1,42 +1,69 @@
-👋 Hi, I'm Shivam  
-💻 Full-Stack Web Developer (MERN) | Software Engineering Student
+# 👋 Hi, I'm Shivam S. Pimple
 
-Welcome to my GitHub profile! I build full-stack web applications using modern technologies, focusing on clean architecture, scalability, and real-world use cases.
+**Full-Stack Web Developer (MERN) | Software Engineering Student**
 
-🚀 About Me  
-🎓 B.Tech IT student (2024–2028)  
-🌱 Currently working on MERN stack projects  
-🛠️ Building full-stack applications with React, Node.js, and MongoDB  
-📈 Actively improving backend architecture and database design  
-🎯 Goal: To become a production-ready Full-Stack Software Developer  
+I build **scalable, full-stack web applications** using modern technologies with a strong focus on **clean architecture, modular code, and real-world problem solving**.
 
-🛠️ Tech Stack  
+---
 
-Frontend:  
+## 🚀 About Me
+
+I am a **B.Tech Information Technology student (2024–2028)** and a **MERN stack developer** actively working on full-stack projects.
+
+- 🎓 IT Engineering student  
+- 💻 Full-Stack Web Developer (MERN)  
+- 🌱 Actively building and improving real-world projects  
+- 🛠️ Focused on backend APIs, frontend architecture, and databases  
+- 🎯 Goal: To become a production-ready Software Developer  
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 - React.js  
 - Redux Toolkit  
 - Component-Based Architecture  
 - Responsive UI Design  
+- State Management  
 
-Backend:  
+### Backend
 - Node.js  
 - Express.js  
 - RESTful APIs  
 - EJS Rendering  
+- Server Architecture  
 
-Databases:  
+### Databases
 - MongoDB  
 - MySQL (SQL)  
 - Schema Design  
+- Data Relationships  
+- CRUD Operations  
 
-Tools:  
+### Tools & Platforms
 - Git  
 - GitHub  
 - Hoppscotch  
 - VS Code  
+- API Testing  
 
-🌍 Let's Connect  
-💼 LinkedIn: Shivam Pimple  
-📧 Email: shivampimple29@gmail.com  
-🐙 GitHub: https://github.com/shivampimple29
+---
 
+## 🎓 Professional Training
+
+**Full-Stack Web Development (MERN) — Apna College (Sigma 8 Batch)**  
+Hands-on training in MERN stack development, React frontend architecture, RESTful backend APIs, database design, and end-to-end full-stack workflows.
+
+---
+
+
+## 🌍 Let’s Connect
+
+- 💼 LinkedIn: Shivam Pimple  
+- 📧 Email: shivampimple29@gmail.com  
+- 🐙 GitHub: https://github.com/shivampimple29  
+
+---
+
+⭐ *This profile showcases my journey as a Full-Stack Web Developer and my continuous learning through real-world projects.*
