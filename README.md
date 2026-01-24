@@ -99,27 +99,11 @@ I build **scalable full-stack web applications** using modern technologies with 
 
 
 ### 🗄️ Databases
-<!-- Databases-->
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Schema-2F4F4F?style=flat-square&logo=databricks&logoColor=white" height="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CRUD-6A5ACD?style=flat-square&logo=postgresql&logoColor=white" height="42" />
-</p>
+### ⚙️ Backend
 
-<!-- Databases Names -->
-<p align="left">
-  <span style="display:inline-block; width:42px; text-align:center;">MongoDB</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">MySQL</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:90px; text-align:center;">Schema</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:90px; text-align:center;">CRUD</span>
-</p>
+| Node.js | Express | REST | EJS |
+|--------|---------|------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> | <img src="https://img.shields.io/badge/REST-00599C?style=flat&logo=swagger&logoColor=white"/> | <img src="https://img.shields.io/badge/EJS-A91E50?style=flat&logo=ejs&logoColor=white"/> |
 
 ### 🧠 DSA
 
