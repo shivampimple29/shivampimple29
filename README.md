@@ -15,24 +15,25 @@ I build **scalable full-stack web applications** using modern technologies with 
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/shivam-pimple-894201316">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
       </a><br/>
-      LinkedIn
+      <b>LinkedIn</b>
     </td>
     <td align="center">
       <a href="mailto:shivampimple29@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="45"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40"/>
       </a><br/>
-      Email
+      <b>Email</b>
     </td>
     <td align="center">
       <a href="https://github.com/shivampimple29">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="40"/>
       </a><br/>
-      GitHub
+      <b>GitHub</b>
     </td>
   </tr>
 </table>
+
 
 
 
