@@ -21,7 +21,7 @@ I build **scalable full-stack web applications** using modern technologies with 
     </td>
     <td align="center">
       <a href="mailto:shivampimple29@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="45"/>
       </a><br/>
       <b>Email</b>
     </td>
@@ -97,7 +97,7 @@ I build **scalable full-stack web applications** using modern technologies with 
       Node.js
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="45"/><br/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" width="45"/><br/>
       Express
     </td>
     <td align="center">
@@ -182,7 +182,7 @@ I build **scalable full-stack web applications** using modern technologies with 
       Git
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45"/><br/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="45"/><br/>
       GitHub
     </td>
     <td align="center">
