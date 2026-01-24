@@ -10,9 +10,20 @@ I build **scalable full-stack web applications** using modern technologies with 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-pimple)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivampimple29@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivampimple29)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shivam-pimple-894201316" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:shivampimple29@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/shivampimple29" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" />
+  </a>
+</p>
+
 
 ---
 
@@ -28,32 +39,156 @@ I build **scalable full-stack web applications** using modern technologies with 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<!-- Frontend Logos -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" />
+</p>
+
+<!-- Frontend Names -->
+<p align="left">
+  <span style="display:inline-block; width:42px; text-align:center;">React</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">Redux</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">HTML5</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">CSS3</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">JS</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">Bootstrap</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">Tailwind</span>
+</p>
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge)
-![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge)
+<!-- Backend Logos -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REST-00599C?style=flat-square&logo=swagger&logoColor=white" height="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" width="42" />
+</p>
+
+<!-- Backend Names -->
+<p align="left">
+  <span style="display:inline-block; width:42px; text-align:center;">Node.js</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">Express</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:90px; text-align:center;">REST</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">EJS</span>
+</p>
+
+
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Schema](https://img.shields.io/badge/Schema_Design-2F4F4F?style=for-the-badge)
-![CRUD](https://img.shields.io/badge/CRUD_Operations-6A5ACD?style=for-the-badge)
+<!-- Databases-->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Schema-2F4F4F?style=flat-square&logo=databricks&logoColor=white" height="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CRUD-6A5ACD?style=flat-square&logo=postgresql&logoColor=white" height="42" />
+</p>
+
+<!-- Databases Names -->
+<p align="left">
+  <span style="display:inline-block; width:42px; text-align:center;">MongoDB</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">MySQL</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:90px; text-align:center;">Schema</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:90px; text-align:center;">CRUD</span>
+</p>
+
+### 🧠 DSA
+
+<!-- DSA Logos -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" />
+</p>
+
+<!-- DSA Names -->
+<p align="left">
+  <span style="display:inline-block; width:42px; text-align:center;">C</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">Java</span>
+</p>
+
+### 🧩 OOP
+
+<!-- OOP Logos -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" />
+</p>
+
+<!-- OOP Names -->
+<p align="left">
+  <span style="display:inline-block; width:42px; text-align:center;">C</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">C++</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">Java</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">Python</span>
+</p>
+
 
 ### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Hoppscotch](https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![API](https://img.shields.io/badge/API_Testing-FF6F00?style=for-the-badge)
+<!-- Tools Logos -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat-square&logo=hoppscotch&logoColor=white" height="42" />
+</p>
+
+<!-- Tools Names -->
+<p align="left">
+  <span style="display:inline-block; width:42px; text-align:center;">Git</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">GitHub</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">VS Code</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:42px; text-align:center;">API</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:90px; text-align:center;">Hoppscotch</span>
+</p>
+
 
 ---
 
