@@ -19,14 +19,12 @@ I build **scalable full-stack web applications** using modern technologies with 
       </a><br/>
       LinkedIn
     </td>
-
     <td align="center">
       <a href="mailto:shivampimple29@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="45"/>
       </a><br/>
       Email
     </td>
-
     <td align="center">
       <a href="https://github.com/shivampimple29">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
