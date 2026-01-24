@@ -22,7 +22,7 @@ I build **scalable full-stack web applications** using modern technologies with 
 
     <td align="center">
       <a href="mailto:shivampimple29@gmail.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="45"/>
       </a><br/>
       Email
     </td>
@@ -35,6 +35,7 @@ I build **scalable full-stack web applications** using modern technologies with 
     </td>
   </tr>
 </table>
+
 
 
 
