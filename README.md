@@ -9,20 +9,31 @@ I build **scalable full-stack web applications** using modern technologies with 
 
 ---
 
-## 🌐 Socials:
-<p align="left">
-  <a href="https://www.linkedin.com/in/shivam-pimple-894201316" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:shivampimple29@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/shivampimple29" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" />
-  </a>
-</p>
+## 🌐 Socials
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/shivam-pimple-894201316">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+      </a><br/>
+      LinkedIn
+    </td>
+    <td align="center">
+      <a href="mailto:shivampimple29@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="45"/>
+      </a><br/>
+      Email
+    </td>
+    <td align="center">
+      <a href="https://github.com/shivampimple29">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45"/>
+      </a><br/>
+      GitHub
+    </td>
+  </tr>
+</table>
+
 
 
 ---
@@ -39,139 +50,152 @@ I build **scalable full-stack web applications** using modern technologies with 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-<!-- Frontend Logos -->
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" />
-</p>
 
-<!-- Frontend Names -->
-<p align="left">
-  <span style="display:inline-block; width:42px; text-align:center;">React</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">Redux</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">HTML5</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">CSS3</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">JS</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">Bootstrap</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">Tailwind</span>
-</p>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>
+      React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/><br/>
+      Redux
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>
+      HTML5
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>
+      CSS3
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/><br/>
+      Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/><br/>
+      Tailwind
+    </td>
+  </tr>
+</table>
+
 
 ### ⚙️ Backend
-<!-- Backend Logos -->
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/REST-00599C?style=flat-square&logo=swagger&logoColor=white" height="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" width="42" />
-</p>
 
-<!-- Backend Names -->
-<p align="left">
-  <span style="display:inline-block; width:42px; text-align:center;">Node.js</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">Express</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:90px; text-align:center;">REST</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">EJS</span>
-</p>
-
-
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>
+      Node.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="45"/><br/>
+      Express
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/REST-00599C?style=flat&logo=swagger&logoColor=white"/><br/>
+      REST
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/EJS-A91E50?style=flat&logo=ejs&logoColor=white"/><br/>
+      EJS
+    </td>
+  </tr>
+</table>
 
 ### 🗄️ Databases
-### ⚙️ Backend
 
-| Node.js | Express | REST | EJS |
-|--------|---------|------|-----|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> | <img src="https://img.shields.io/badge/REST-00599C?style=flat&logo=swagger&logoColor=white"/> | <img src="https://img.shields.io/badge/EJS-A91E50?style=flat&logo=ejs&logoColor=white"/> |
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>
+      MongoDB
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>
+      MySQL
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Schema-2F4F4F?style=flat&logo=databricks&logoColor=white"/><br/>
+      Schema
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CRUD-6A5ACD?style=flat&logo=postgresql&logoColor=white"/><br/>
+      CRUD
+    </td>
+  </tr>
+</table>
 
 ### 🧠 DSA
 
-<!-- DSA Logos -->
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" />
-</p>
-
-<!-- DSA Names -->
-<p align="left">
-  <span style="display:inline-block; width:42px; text-align:center;">C</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">Java</span>
-</p>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>
+      C
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>
+      Java
+    </td>
+  </tr>
+</table>
 
 ### 🧩 OOP
 
-<!-- OOP Logos -->
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" />
-</p>
-
-<!-- OOP Names -->
-<p align="left">
-  <span style="display:inline-block; width:42px; text-align:center;">C</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">C++</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">Java</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">Python</span>
-</p>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>
+      C
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br/>
+      C++
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>
+      Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br/>
+      Python
+    </td>
+  </tr>
+</table>
 
 
 ### 🧰 Tools & Platforms
-<!-- Tools Logos -->
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat-square&logo=hoppscotch&logoColor=white" height="42" />
-</p>
 
-<!-- Tools Names -->
-<p align="left">
-  <span style="display:inline-block; width:42px; text-align:center;">Git</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">GitHub</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">VS Code</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:42px; text-align:center;">API</span>
-  &nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:90px; text-align:center;">Hoppscotch</span>
-</p>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br/>
+      Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45"/><br/>
+      GitHub
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/><br/>
+      VS Code
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/><br/>
+      API
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat&logo=hoppscotch&logoColor=white"/><br/>
+      Hoppscotch
+    </td>
+  </tr>
+</table>
 
 
 ---
