@@ -1,11 +1,13 @@
-# 👋 Hi, I'm Shivam S. Pimple  
-### Full-Stack Web Developer (MERN) | Software Engineering Student  
+# 👋 Hi, I'm Shivam S. Pimple
+
+### Full-Stack Web Developer (MERN) | Software Engineering Student
 
 I build **scalable full-stack web applications** using modern technologies with a strong focus on:
-- Clean architecture  
-- Modular code  
-- Real-world problem solving  
-- Production-ready systems  
+
+- Clean architecture
+- Modular code
+- Real-world problem solving
+- Production-ready systems
 
 ---
 
@@ -34,19 +36,15 @@ I build **scalable full-stack web applications** using modern technologies with 
   </tr>
 </table>
 
-
-
-
-
-
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech Information Technology (2024–2028)  
-- 💻 Full-Stack Web Developer (MERN)  
-- 🌱 Actively building real-world projects  
-- 🛠️ Focused on backend APIs, frontend architecture & databases  
-- 🎯 Goal: Production-ready Software Developer  
+
+- 🎓 B.Tech Information Technology (2024–2028)
+- 💻 Full-Stack Web Developer (MERN)
+- 🌱 Actively building real-world projects
+- 🛠️ Focused on backend APIs, frontend architecture & databases
+- 🎯 Goal: Production-ready Software Developer
 
 ---
 
@@ -86,7 +84,6 @@ I build **scalable full-stack web applications** using modern technologies with 
     </td>
   </tr>
 </table>
-
 
 ### ⚙️ Backend
 
@@ -172,7 +169,6 @@ I build **scalable full-stack web applications** using modern technologies with 
   </tr>
 </table>
 
-
 ### 🧰 Tools & Platforms
 
 <table border="0">
@@ -200,33 +196,37 @@ I build **scalable full-stack web applications** using modern technologies with 
   </tr>
 </table>
 
-
 ---
 
 ## 🎓 Professional Training
-**Full-Stack Web Development (MERN)** — *Apna College (Sigma 8 Batch)*  
+
+**Full-Stack Web Development (MERN)** — _Apna College (Sigma 8 Batch)_  
 Hands-on training in:
-- MERN stack development  
-- React frontend architecture  
-- RESTful backend APIs  
-- Database design  
-- End-to-end full-stack workflows  
+
+- MERN stack development
+- React frontend architecture
+- RESTful backend APIs
+- Database design
+- End-to-end full-stack workflows
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivampimple29&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivampimple29&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+
 </p>
 
 ---
 
 ## 🔤 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivampimple29&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivampimple29&layout=compact&theme=tokyonight&cache_seconds=86400" />
+
 </p>
 
 ---
 
 ⭐ This profile showcases my journey as a **Full-Stack Web Developer** and my continuous learning through **real-world projects**.
-
