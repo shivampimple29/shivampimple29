@@ -1,3 +1,13 @@
+<p align="center">
+  <picture>
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/portrait-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/portrait-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/portrait-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/portrait-light.svg">
+    <img src="./assets/portrait-dark.svg" alt="ASCII Console Portrait" width="100%">
+  </picture>
+</p>
+
 # 👋 Hi, I'm Shivam S. Pimple
 
 ### Full-Stack Web Developer (MERN) | Software Engineering Student

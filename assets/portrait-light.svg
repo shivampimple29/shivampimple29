@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="540" viewBox="0 0 850 540" role="img" aria-labelledby="title">
+  <title id="title">Console ASCII Portrait</title>
+  <defs>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8FBFF"/>
+      <stop offset="100%" stop-color="#F1F5F9"/>
+    </linearGradient>
+    
+    <linearGradient id="ascii-signal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0891B2">
+        <animate attributeName="stop-color" values="#0891B2;#6D28D9;#2563EB;#0891B2" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#6D28D9">
+        <animate attributeName="stop-color" values="#6D28D9;#2563EB;#0891B2;#6D28D9" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <linearGradient id="border-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6D28D9"/>
+      <stop offset="50%" stop-color="#0891B2"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+    
+    <linearGradient id="scan-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0891B2" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#0891B2" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#6D28D9" stop-opacity="0"/>
+    </linearGradient>
+    
+    <radialGradient id="portrait-halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0891B2" stop-opacity="0.18"/>
+      <stop offset="50%" stop-color="#2563EB" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#6D28D9" stop-opacity="0"/>
+    </radialGradient>
+    
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#0891B2" opacity="0.03"/>
+    </pattern>
+    
+    <pattern id="portrait-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 H 0 V 40" fill="none" stroke="#2563EB" stroke-width="0.5" opacity="0.06"/>
+      <circle cx="0" cy="0" r="1" fill="#0891B2" opacity="0.0900"/>
+    </pattern>
+    
+    <clipPath id="panel-clip">
+      <rect x="20" y="50" width="810" height="470" rx="12"/>
+    </clipPath>
+    
+    <mask id="portrait-reveal">
+      <rect x="20" y="50" width="810" height="0" rx="12" fill="white">
+        <animate attributeName="height" from="0" to="470" dur="1.8s" begin="0.1s" fill="freeze"/>
+      </rect>
+    </mask>
+
+    <style>
+      .mono { font-family: 'Courier New', Consolas, 'Fira Code', monospace; }
+      .ascii-text { 
+        font-family: 'Courier New', Consolas, 'Liberation Mono', monospace; 
+        font-size: 7.0px; 
+        letter-spacing: -0.1px; 
+        fill: url(#ascii-signal); 
+      }
+      .term-text { font-family: 'Courier New', Consolas, monospace; font-size: 11px; fill: #64748B; letter-spacing: 1px; }
+      .live-badge { font-family: 'Courier New', Consolas, monospace; font-size: 9px; fill: #EF4444; letter-spacing: 1.5px; font-weight: bold; }
+      .tag-badge { font-family: 'Courier New', Consolas, monospace; font-size: 9px; fill: #0891B2; opacity: 0.8; letter-spacing: 1px; }
+    </style>
+  </defs>
+
+  <!-- Outer Console Background -->
+  <rect width="850" height="540" rx="16" fill="url(#bg-grad)"/>
+  <rect width="850" height="540" rx="16" fill="url(#scanlines)"/>
+  
+  <!-- Terminal Top Bar -->
+  <rect x="3" y="3" width="844" height="36" rx="14" fill="#FFFFFF" fill-opacity="0.85"/>
+  <circle cx="20" cy="21" r="5" fill="#EF4444"/>
+  <circle cx="36" cy="21" r="5" fill="#F59E0B"/>
+  <circle cx="52" cy="21" r="5" fill="#10B981"/>
+  
+  <text x="425.0" y="24" text-anchor="middle" class="term-text">PORTRAIT // OPTICAL_SCANNER_v1.0</text>
+  
+  <circle cx="764" cy="21" r="3.5" fill="#EF4444">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>
+  </circle>
+  <text x="774" y="24" class="live-badge">SCANNING</text>
+
+  <!-- Visual Panel Container -->
+  <rect x="20" y="50" width="810" height="470" rx="12" fill="#FFFFFF" fill-opacity="0.4" stroke="url(#border-grad)" stroke-opacity="0.45"/>
+  
+  <!-- Background Grid and Halo inside Panel -->
+  <g clip-path="url(#panel-clip)">
+    <rect x="20" y="50" width="810" height="470" fill="url(#portrait-grid)"/>
+    <ellipse cx="425.0" cy="285.0" rx="340.2" ry="206.8" fill="url(#portrait-halo)"/>
+    
+    <!-- Reticle Circles and Tech Crosshairs -->
+    <circle cx="425.0" cy="285.0" r="178.6" fill="none" stroke="#0891B2" stroke-width="0.8" stroke-dasharray="6 8" opacity="0.12">
+      <animateTransform attributeName="transform" type="rotate" from="0 425.0 285.0" to="360 425.0 285.0" dur="30s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="425.0" cy="285.0" r="122.2" fill="none" stroke="#6D28D9" stroke-width="0.6" stroke-dasharray="4 6" opacity="0.12">
+      <animateTransform attributeName="transform" type="rotate" from="360 425.0 285.0" to="0 425.0 285.0" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Corner HUD markers -->
+    <path d="M 36 78 V 66 H 48" fill="none" stroke="#0891B2" stroke-width="1.5" opacity="0.6"/>
+    <path d="M 814 78 V 66 H 802" fill="none" stroke="#0891B2" stroke-width="1.5" opacity="0.6"/>
+    <path d="M 36 492 V 504 H 48" fill="none" stroke="#0891B2" stroke-width="1.5" opacity="0.6"/>
+    <path d="M 814 492 V 504 H 802" fill="none" stroke="#0891B2" stroke-width="1.5" opacity="0.6"/>
+
+    <text x="44" y="502" class="tag-badge">SYS.RES: 96x64 // MATRIX.RENDER</text>
+    <text x="806" y="502" text-anchor="end" class="tag-badge">SIG: LOCKED [100%]</text>
+  </g>
+
+  <!-- ASCII Art Layer with reveal mask -->
+  <g clip-path="url(#panel-clip)" mask="url(#portrait-reveal)">
+    <text class="ascii-text"><tspan x="222.44" y="74.20" xml:space="preserve">                         .:=+*##%%@@@@%%%#*+=-:.                                                </tspan>
+<tspan x="222.44" y="81.10" xml:space="preserve">                      .-*@@@@@%%%@@#+*##%%%%#@@#-.                                              </tspan>
+<tspan x="222.44" y="88.00" xml:space="preserve">                   .-*%@@@%%%%%%@%+--==#%%%%%%@@@%-                                             </tspan>
+<tspan x="222.44" y="94.90" xml:space="preserve">                .-*@@@@%%%%#%@@##%%%@%%%#%@@@@%%%@@=                                            </tspan>
+<tspan x="222.44" y="101.80" xml:space="preserve">              .:%@%*%%@%%%%@@%-=**#%#%%@%%#-=%%%%%%@+                                           </tspan>
+<tspan x="222.44" y="108.70" xml:space="preserve">             :*%%%=+@@%%@%#*+:+##%%%%#+=::=#%%%%%%%%@-                                          </tspan>
+<tspan x="222.44" y="115.60" xml:space="preserve">            .*#%+-=@%%+*=. .:=*#%@@%%%#*+#@%%%%%%%%%@%.                                         </tspan>
+<tspan x="222.44" y="122.50" xml:space="preserve">            :*#=.+@#=:::-+++#*##+=----:. -*#@@%@%%%@@@-                                         </tspan>
+<tspan x="222.44" y="129.40" xml:space="preserve">           .+++.:**-:++++++==:.  :=======:.-=%@%@@@%#*+-.                                       </tspan>
+<tspan x="222.44" y="136.30" xml:space="preserve">            --..:-.-#+-:::::. :-*#*+=-:.=+---=@%#%%+::::-:                                      </tspan>
+<tspan x="222.44" y="143.20" xml:space="preserve">            ..:.  -#+---:..  :=+++=:.-=+:==--:+@@*:    ..-                                      </tspan>
+<tspan x="222.44" y="150.10" xml:space="preserve">            .=+:. =*==--:.....+++==*#+---:=....=@*.:::...-                                      </tspan>
+<tspan x="222.44" y="157.00" xml:space="preserve">             .-:. -#+==***++-:*=.+**#+:. =+. ...+#-.:..:.-                                      </tspan>
+<tspan x="222.44" y="163.90" xml:space="preserve">             -.   :%*####****=:+=-:.. .:==-   ..-##.. ...-                                      </tspan>
+<tspan x="222.44" y="170.80" xml:space="preserve">             ::.   -@%#=-.+#*=..=+-------:     .-%%-....-.                                      </tspan>
+<tspan x="222.44" y="177.70" xml:space="preserve">              :.  -#**===*##*=.   .-=-:.      .:-*##:.:-:                                       </tspan>
+<tspan x="222.44" y="184.60" xml:space="preserve">                 :#*##+####*#=...==..         :---*##=*=.                                       </tspan>
+<tspan x="222.44" y="191.50" xml:space="preserve">                .=+*##*+*=:**+*+=:.--::-=:   .::--=**-*#.                                       </tspan>
+<tspan x="222.44" y="198.40" xml:space="preserve">                 :-+*##*+=***#%%#+***#**+=.  :::-==*#--*.                                       </tspan>
+<tspan x="222.44" y="205.30" xml:space="preserve">                   :%###%%%##%%@*=+++*#@+.  .....--+*=.+.                                       </tspan>
+<tspan x="222.44" y="212.20" xml:space="preserve">                   :@%%%%%%%%%%-.+@%%#*%*.  :::..-+##-.--                                       </tspan>
+<tspan x="222.44" y="219.10" xml:space="preserve">                   :@%%%%%%%%@+..%@%%@+%*. .-+*++*%%#:.:=.                                      </tspan>
+<tspan x="222.44" y="226.00" xml:space="preserve">                   :@%%%%%%%%@*. .+++:-@#:-+*#%%%%%*-..:=:                                      </tspan>
+<tspan x="222.44" y="232.90" xml:space="preserve">                   .%%%%%%%%%@*. -**##=@%#%%@%%@%#=:....-=--..                                  </tspan>
+<tspan x="222.44" y="239.80" xml:space="preserve">                   .%%%%%%%%%@#..*%#*%+%%%@@%@@*=:::....::-:=*:                                 </tspan>
+<tspan x="222.44" y="246.70" xml:space="preserve">                   .#%%%%%%%%%@+..*#*=#%#@@@@%=::::.. ..:-+=:@@+.                               </tspan>
+<tspan x="222.44" y="253.60" xml:space="preserve">                   .#%#%%%%%%%%@%****%%%%@@@*-:..::.  ...:+:.%@@%=.                             </tspan>
+<tspan x="222.44" y="260.50" xml:space="preserve">                   .*@%*#%%%@%%%%@@@#%%%%%#+::::::.   ...:: :@@@@@%+:..                         </tspan>
+<tspan x="222.44" y="267.40" xml:space="preserve">                    +@@@%%%%%%*##%%%%##%%#*+=-:::..    .::  =@@@@@@@@@#+=:..                    </tspan>
+<tspan x="222.44" y="274.30" xml:space="preserve">                    =@@@@@@#*---:#%%%%#%%*++=-::....  .::  .%@%%%%%@@@@@@@%#+-:..               </tspan>
+<tspan x="222.44" y="281.20" xml:space="preserve">                    -@@%#*#%+..==+@%%##%@*-=--:::... .::   =@%%%%%%%%%%%%%@@@@@%#+=:...         </tspan>
+<tspan x="222.44" y="288.10" xml:space="preserve">                   :-=:.. .-=...:-%%%%%%@*=-----:::..::   .%@%%%%%%%@@%%%%%%%%%@@@@@@#*+-:..    </tspan>
+<tspan x="222.44" y="295.00" xml:space="preserve">                  .=.  .::-==+++*%%@@@@@@=-=-------::. .  -@%%%%%%%###%%%%%%%%%%%%%%@@@@@@%#+=. </tspan>
+<tspan x="222.44" y="301.90" xml:space="preserve">                .:=-:::==**#@%#=@%@@@#*=-. .-:------. .::.#@%%%%%##%%%%%%%%%%%%%%%%%%%%%%%@@@@@:</tspan>
+<tspan x="222.44" y="308.80" xml:space="preserve">             .:+%@*:..:=:#%@@@#=+=-:..  .:..::...::.  .-:-@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@+</tspan>
+<tspan x="222.44" y="315.70" xml:space="preserve">           -*%@@@@-:. :#@@@@#=:.   ..-+*#%+.            .*@%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@</tspan>
+<tspan x="222.44" y="322.60" xml:space="preserve">          =@@@@@@-     :#*+:.  ..:=*%@%%@@*.            .%@%###%%%%%#%%%%%%%%############%%%@@@@</tspan>
+<tspan x="222.44" y="329.50" xml:space="preserve">         .%@%%%@@-.     ..  .:-=--****+=-:.             -@%####%%%%#%%%%%%%#############%%%@@@@%</tspan>
+<tspan x="222.44" y="336.40" xml:space="preserve">         -@%%@%@@-:.      .-=+==-:..   ..--:.          .#@#######%%#%%%%%##%%%%########%%%%@@@@%</tspan>
+<tspan x="222.44" y="343.30" xml:space="preserve">        .@@@%@%@#:--.     .:-:.  .:-=+#%@%@*.          :@%#####%%%#%%%%##%%%%%%%#####%%%%%@@@@%%</tspan>
+<tspan x="222.44" y="350.20" xml:space="preserve">        =@@@%@%@*::-=-.       :-+#%@@@@@@%%%.          =@######%%%#%%###%%%%%%%%%%##%%%@%%@@@@%%</tspan>
+<tspan x="222.44" y="357.10" xml:space="preserve">       .*@@@@%@@+:::-:...   :=++#@@@@@@%@##@-         .%@######%%#%%#%%@@@%%%%%%%%%%%%@@%@@@@%%%</tspan>
+<tspan x="222.44" y="364.00" xml:space="preserve">       .#@@@@@@@-:::::-=-.  .-=====+**+#%%#@*.        -@%#####%%#%%#%@@%#@@@%%%%%%%%%@@%@@@@%%@@</tspan>
+<tspan x="222.44" y="370.90" xml:space="preserve">       .*@@@@#@#:::::::--:.     .:-+*#%%%%#%%.        *@######%%#%%@@@+.:=@@@%%%%%%%@@%@@@@%%@@%</tspan>
+<tspan x="222.44" y="377.80" xml:space="preserve">        =@@@@@@=-:........::-:=%@@@@%%%####%@-       .@%######%#%@@%+.  .==#@%%%%%%@@%%@@@%%@@%%</tspan>
+<tspan x="222.44" y="384.70" xml:space="preserve">       :@@@@@@+:--:....:-=++==@@@%%%#%####%#@*       =@######%#%@%*:.::. :=.%@%%%%@@@*@@@%%%%%%%</tspan>
+<tspan x="222.44" y="391.60" xml:space="preserve">       *@@@@@*::::::::-====-+@@@%%%%##%###%#@%.     .#@#####%%#@@.:=====---=-%@%%@@@#@@%%%%%%%%%</tspan>
+<tspan x="222.44" y="398.50" xml:space="preserve">      :@@%@@%--:::::--==--=#@@@@%%%%##%%%###%@:     :@%####%%#%@*+****#%%%%@@@@@@@@@*@%%%%%%%%%%</tspan>
+<tspan x="222.44" y="405.40" xml:space="preserve">      -@@@@@#+-::.:-====*%@@@@@@@%%%###%%%##%@+     +@%##%%%%#%%@@@@@@@@@@@@@@@@@@@%#@%%%%%%%#%@</tspan>
+<tspan x="222.44" y="412.30" xml:space="preserve">      -@%@%@#*=. :===++*@@@@@@@@@%%%%*%%%%%%%@#.   .%@%%%%%%#%%%%%%%%%%%@@@@@@@@@@@#%@%%%%%%#%@@</tspan>
+<tspan x="222.44" y="419.20" xml:space="preserve">      -@%%%@#++--=-===+-@@@@@@@@@%%%%%#%%%%%%%@.   -@%%%%%%%#%%%%%%%%%%%%%%@@@@@@@@#@@%%%%%%%%@@</tspan>
+<tspan x="222.44" y="426.10" xml:space="preserve">      =@%%%@@*=+=----==:@@@@@@@@@@%%%%#%%%%%%%@-   +@%%%%%%%#%%%%%%%%%%%%@@@@@@@@@@*@@%%%%%%%@@@</tspan>
+<tspan x="222.44" y="433.00" xml:space="preserve">      *@%%%%@@=-==--=-:+@@@@@@@@@@@%%%%*%%%%%%@*  .%@%%%%%%#%%%%%%%%%%%%@@@@@@@@@@@+@@%%%%%%%%%%</tspan>
+<tspan x="222.44" y="439.90" xml:space="preserve">     :@@%%%%%@@= .:::.*@@@@@@@@@@@@%%%%##%%%%%@%. -@%%%%%%#%%%%%%%%%%%%%%@@@@@@@@@@+@@%%%%%%%%%%</tspan>
+<tspan x="222.44" y="446.80" xml:space="preserve">    .#@%%%%%@@@@#=.  -@@@@@@@@@@@@@@%%%@+%%%%%%@: *@%%%%%%#@%%%%%%%%%%%%%@@@@@@@@@@=@@%%%%%%%%@@</tspan>
+<tspan x="222.44" y="453.70" xml:space="preserve">    +@%%%%%%@@@@@%%*+@@@+#@@@@@@@@@@%%%%@=@%%%%@=.%@%%%%%*@%%%%%%%%%%%%%%@@@@@@@@@@=@@%%%%%@@@@@</tspan>
+<tspan x="222.44" y="460.60" xml:space="preserve">   -@%%%%%%%%@@@@@%@@@@@-*@@@@@@@@@%%%%%@#*%%%%@*.@%%%%%*%%%%%%%%%%%%%%%%@@@@@@@@@@=@@%%%%@@@@%%</tspan>
+<tspan x="222.44" y="467.50" xml:space="preserve">  .%@%%%%%%@@@@@@@@@@@@@:+@@@@@@@@@%%%%%%@=%%%%@#=@%%%%#%@%%%%%%%%%%%%%%@@@@@@@@@@@=@@@%%@@@@%%#</tspan>
+<tspan x="222.44" y="474.40" xml:space="preserve">  *@%%%%%%@@@@@%#@@@@@@@.:@@@@@@@@%%%%%%%%@:@%%@%#@%%%%*@%%%%%%%%%%%%%%@@@@@@@@@@@@-@@%%%@@%%%##</tspan>
+<tspan x="222.44" y="481.30" xml:space="preserve"> -@%%%%%%@@@@@%#%@@@@@@%..*@@@@@@@%%%%%%%%@#=@%@@@%%%%*@%%%%%%%%%%%%%%@@@@@@@@@@@@@:@@%%%%%%####</tspan>
+<tspan x="222.44" y="488.20" xml:space="preserve">.@@%%%%@@%@@@@@%@@@@@@@= .+@@@@@@%%%%%%%%%%@+#@@@%%%@+@%%%%%%%%%%%%%%@@@@@@@@@@@@@@.@@%%%###%%%%</tspan>
+<tspan x="222.44" y="495.10" xml:space="preserve">+@%@%@%@@@@@@@@@@@@@@@@: .#@@@@@@%%%%%%%%%%%@:@@@%%@+@%%%%%%%%%%%%%%%@@@@@@@@@@@@@@+*@%%%%@@@@@@</tspan>
+<tspan x="222.44" y="502.00" xml:space="preserve">@@%@%@@%@@@@@@@@@@@@@@%. -@@@@@@@%%%%%%%%%%%%@:@%%@+@%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@==@%@@@@@@@@%</tspan>
+<tspan x="222.44" y="508.90" xml:space="preserve">@@%@@@@%%@@@@@@@@@@@@@#..#@@@@@@@%%%%%%%%%%%%@%+@%*@@%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@.=@@@@@@%%%%%</tspan></text>
+  </g>
+
+  <!-- Sweeping Laser Scan Line -->
+  <rect x="20" y="-10" width="810" height="60" fill="url(#scan-grad)" opacity="0.8" style="mix-blend-mode:multiply" clip-path="url(#panel-clip)">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 550" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Glowing Outer Frame Border -->
+  <rect x="2" y="2" width="846" height="536" rx="15" fill="none" stroke="url(#border-grad)" stroke-width="1.8" opacity="0.8">
+    <animate attributeName="opacity" values="0.5;0.95;0.5" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
