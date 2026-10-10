@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="320" viewBox="0 0 850 320" role="img" aria-label="Shivam S. Pimple - Full-Stack Developer and AI Applications">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="hero-bg-dark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050814"/>
+      <stop offset="100%" stop-color="#0a0f1d"/>
+    </linearGradient>
+
+    <!-- Outer Card Border Glow Gradient -->
+    <linearGradient id="hero-border-dark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#34d399" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="hero-grid-dark" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 H 0 V 30" fill="none" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.04"/>
+    </pattern>
+
+    <!-- Scanning Shimmer Beam -->
+    <linearGradient id="shimmer-dark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="quote-clip-dark">
+      <rect x="0" y="0" width="794" height="42" rx="8"/>
+    </clipPath>
+
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+
+      @keyframes beamSlide {
+        0% { transform: translateX(-150px); }
+        50%, 100% { transform: translateX(850px); }
+      }
+      .shimmer-line {
+        animation: beamSlide 6s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="848" height="318" rx="14" fill="url(#hero-bg-dark)" stroke="#1e293b" stroke-width="1"/>
+  <rect x="1" y="1" width="848" height="318" rx="14" fill="url(#hero-grid-dark)"/>
+
+  <!-- Top Decorative Gradient Accent Line -->
+  <rect x="2" y="1" width="846" height="2" rx="1" fill="url(#hero-border-dark)"/>
+
+  <!-- Main Heading: Name & Wave Greeting -->
+  <text x="28" y="52" class="sans" font-size="28" font-weight="700" fill="#f8fafc" letter-spacing="-0.5">
+    👋 Hi, I'm <tspan fill="#38bdf8">Shivam S. Pimple</tspan>
+  </text>
+
+  <!-- ==================== PHILOSOPHY QUOTE BAR ==================== -->
+  <g transform="translate(28, 72)">
+    <rect x="0" y="0" width="794" height="42" rx="8" fill="rgba(15, 23, 42, 0.75)" stroke="#1e293b" stroke-width="1"/>
+    <rect x="0" y="0" width="4" height="42" rx="2" fill="#38bdf8"/>
+
+    <text x="18" y="27" class="mono" font-size="18" font-weight="700" fill="#38bdf8">“</text>
+
+    <text x="36" y="26" class="sans" font-size="13.5" font-style="italic" font-weight="500" fill="#e2e8f0">
+      I believe every problem has a solution worth working toward.
+    </text>
+
+    <g clip-path="url(#quote-clip-dark)">
+      <rect x="0" y="40" width="120" height="2" fill="url(#shimmer-dark)" class="shimmer-line"/>
+    </g>
+  </g>
+
+  <!-- ==================== CAPABILITY MATRIX (3x2 Grid) ==================== -->
+
+  <!-- Card 1: Full-Stack MERN -->
+  <g transform="translate(28, 134)">
+    <rect x="0" y="0" width="254" height="74" rx="8" fill="#0c1322" stroke="#1e2638" stroke-width="1"/>
+    <rect x="12" y="12" width="22" height="22" rx="5" fill="#0f172a" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.35"/>
+    <g transform="translate(15, 15)">
+      <path d="M8 2L2 5.5l6 3.5 6-3.5L8 2zM2 11.5l6 3.5 6-3.5M2 8.5l6 3.5 6-3.5" fill="none" stroke="#38bdf8" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="42" y="27" class="sans" font-size="12.5" font-weight="600" fill="#f8fafc">Full-Stack MERN</text>
+    <text x="14" y="48" class="sans" font-size="10.5" fill="#94a3b8">Scalable web apps, clean APIs,</text>
+    <text x="14" y="62" class="sans" font-size="10.5" fill="#94a3b8">and modular architectures.</text>
+  </g>
+
+  <!-- Card 2: Applied AI & GenAI -->
+  <g transform="translate(298, 134)">
+    <rect x="0" y="0" width="254" height="74" rx="8" fill="#0c1322" stroke="#1e2638" stroke-width="1"/>
+    <rect x="12" y="12" width="22" height="22" rx="5" fill="#0f172a" stroke="#818cf8" stroke-width="1" stroke-opacity="0.35"/>
+    <g transform="translate(15, 15)">
+      <rect x="2.5" y="2.5" width="11" height="11" rx="2" fill="none" stroke="#818cf8" stroke-width="1.3"/>
+      <path d="M5.5 5.5h5v5h-5zM5.5 0v2.5M10.5 0v2.5M5.5 13.5v2.5M10.5 13.5v2.5M13.5 5.5h2.5M13.5 10.5h2.5M0 5.5h2.5M0 10.5h2.5" fill="none" stroke="#818cf8" stroke-width="1.2" stroke-linecap="round"/>
+    </g>
+    <text x="42" y="27" class="sans" font-size="12.5" font-weight="600" fill="#f8fafc">Applied AI &amp; GenAI</text>
+    <text x="14" y="48" class="sans" font-size="10.5" fill="#94a3b8">Practical intelligent workflows</text>
+    <text x="14" y="62" class="sans" font-size="10.5" fill="#94a3b8">integrated with modern stacks.</text>
+  </g>
+
+  <!-- Card 3: LLMs & RAG Pipelines (Neural Network / Knowledge Graph Icon) -->
+  <g transform="translate(568, 134)">
+    <rect x="0" y="0" width="254" height="74" rx="8" fill="#0c1322" stroke="#1e2638" stroke-width="1"/>
+    <rect x="12" y="12" width="22" height="22" rx="5" fill="#0f172a" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.35"/>
+    <g transform="translate(15, 15)">
+      <line x1="2.5" y1="3.5" x2="8" y2="7.5" stroke="#38bdf8" stroke-width="1.1" stroke-opacity="0.75"/>
+      <line x1="2.5" y1="11.5" x2="8" y2="7.5" stroke="#38bdf8" stroke-width="1.1" stroke-opacity="0.75"/>
+      <line x1="8" y1="7.5" x2="13.5" y2="3.5" stroke="#38bdf8" stroke-width="1.1" stroke-opacity="0.75"/>
+      <line x1="8" y1="7.5" x2="13.5" y2="11.5" stroke="#38bdf8" stroke-width="1.1" stroke-opacity="0.75"/>
+      <line x1="2.5" y1="3.5" x2="2.5" y2="11.5" stroke="#38bdf8" stroke-width="0.8" stroke-opacity="0.4" stroke-dasharray="2 1"/>
+      <line x1="13.5" y1="3.5" x2="13.5" y2="11.5" stroke="#38bdf8" stroke-width="0.8" stroke-opacity="0.4" stroke-dasharray="2 1"/>
+      <circle cx="2.5" cy="3.5" r="1.8" fill="#38bdf8"/>
+      <circle cx="2.5" cy="11.5" r="1.8" fill="#38bdf8"/>
+      <circle cx="8" cy="7.5" r="2.2" fill="#38bdf8"/>
+      <circle cx="13.5" cy="3.5" r="1.8" fill="#38bdf8"/>
+      <circle cx="13.5" cy="11.5" r="1.8" fill="#38bdf8"/>
+    </g>
+    <text x="42" y="27" class="sans" font-size="12.5" font-weight="600" fill="#f8fafc">LLMs &amp; RAG Pipelines</text>
+    <text x="14" y="48" class="sans" font-size="10.5" fill="#94a3b8">Vector search, embeddings,</text>
+    <text x="14" y="62" class="sans" font-size="10.5" fill="#94a3b8">and grounded context retrieval.</text>
+  </g>
+
+  <!-- Card 4: Analytical Persistence -->
+  <g transform="translate(28, 220)">
+    <rect x="0" y="0" width="254" height="74" rx="8" fill="#0c1322" stroke="#1e2638" stroke-width="1"/>
+    <rect x="12" y="12" width="22" height="22" rx="5" fill="#0f172a" stroke="#fbbf24" stroke-width="1" stroke-opacity="0.35"/>
+    <g transform="translate(15, 15)">
+      <circle cx="8" cy="8" r="6" fill="none" stroke="#fbbf24" stroke-width="1.3"/>
+      <circle cx="8" cy="8" r="2.5" fill="none" stroke="#fbbf24" stroke-width="1.2"/>
+      <path d="M8 0v2M8 14v2M0 8h2M14 8h2" fill="none" stroke="#fbbf24" stroke-width="1.3" stroke-linecap="round"/>
+    </g>
+    <text x="42" y="27" class="sans" font-size="12.5" font-weight="600" fill="#f8fafc">Analytical Persistence</text>
+    <text x="14" y="48" class="sans" font-size="10.5" fill="#94a3b8">Deconstructing complex bugs &amp;</text>
+    <text x="14" y="62" class="sans" font-size="10.5" fill="#94a3b8">disciplined root-cause analysis.</text>
+  </g>
+
+  <!-- Card 5: Production Software -->
+  <g transform="translate(298, 220)">
+    <rect x="0" y="0" width="254" height="74" rx="8" fill="#0c1322" stroke="#1e2638" stroke-width="1"/>
+    <rect x="12" y="12" width="22" height="22" rx="5" fill="#0f172a" stroke="#f43f5e" stroke-width="1" stroke-opacity="0.35"/>
+    <g transform="translate(15, 15)">
+      <path d="M8 1.5L2 4.8v6.4l6 3.3 6-3.3V4.8L8 1.5z" fill="none" stroke="#f43f5e" stroke-width="1.3" stroke-linejoin="round"/>
+      <path d="M8 8.1l6-3.3M8 8.1v6.7M8 8.1L2 4.8" fill="none" stroke="#f43f5e" stroke-width="1.2" stroke-linecap="round"/>
+    </g>
+    <text x="42" y="27" class="sans" font-size="12.5" font-weight="600" fill="#f8fafc">Production Software</text>
+    <text x="14" y="48" class="sans" font-size="10.5" fill="#94a3b8">Reliable, maintainable systems</text>
+    <text x="14" y="62" class="sans" font-size="10.5" fill="#94a3b8">built for real-world utility.</text>
+  </g>
+
+  <!-- Card 6: Continuous Growth (Trending-Up / Growth Chart Icon) -->
+  <g transform="translate(568, 220)">
+    <rect x="0" y="0" width="254" height="74" rx="8" fill="#0c1322" stroke="#1e2638" stroke-width="1"/>
+    <rect x="12" y="12" width="22" height="22" rx="5" fill="#0f172a" stroke="#34d399" stroke-width="1" stroke-opacity="0.35"/>
+    <g transform="translate(15, 15)">
+      <path d="M1.5 13.5h13" fill="none" stroke="#34d399" stroke-width="1" stroke-linecap="round" stroke-opacity="0.4"/>
+      <polyline points="2 11.5, 6 7.5, 9.5 9.5, 14 3" fill="none" stroke="#34d399" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="10.5 3, 14 3, 14 6.5" fill="none" stroke="#34d399" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="42" y="27" class="sans" font-size="12.5" font-weight="600" fill="#f8fafc">Continuous Growth</text>
+    <text x="14" y="48" class="sans" font-size="10.5" fill="#94a3b8">Hands-on experimentation,</text>
+    <text x="14" y="62" class="sans" font-size="10.5" fill="#94a3b8">learning from failures &amp; iteration.</text>
+  </g>
+
+</svg>

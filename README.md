@@ -8,18 +8,15 @@
   </picture>
 </p>
 
-# 👋 Hi, I'm Shivam S. Pimple
-
-### Full-Stack Developer | AI-Powered Applications | Software Engineering Student
-
-*I believe every challenging problem has a solution worth working toward.*
-
-- Scalable full-stack development with MERN stack
-- Practical AI-powered applications and generative workflows
-- Applied LLMs, RAG architecture, and vector search
-- Persistent problem-solving through root-cause failure analysis
-- Building reliable software for real-world problems
-- Continuous learning driven by hands-on experimentation
+<p align="center">
+  <picture>
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+    <img src="./assets/hero-dark.svg" alt="Shivam S. Pimple - Full-Stack Developer &amp; AI Applications" width="100%">
+  </picture>
+</p>
 
 ---
 
