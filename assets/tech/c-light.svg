@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="78" viewBox="0 0 68 78">
+  <rect x="0.5" y="0.5" width="67" height="77" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <svg x="16" y="9" width="36" height="36" viewBox="0 0 128 128" preserveAspectRatio="xMidYMid meet">
+    <path fill="#a9bacd" d="M125 50c-4-32-24-50-62-50C29 0 3 24 3 64c0 39 24 64 64 64 32 0 55-19 58-50H87c-2 11-8 20-20 20-21 0-24-16-24-33 0-23 8-35 22-35 13 0 20 7 22 20z" />
+  </svg>
+  <text x="34" y="63" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="11" font-weight="500" fill="#1f2328">C</text>
+</svg>

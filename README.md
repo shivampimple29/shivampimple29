@@ -66,141 +66,164 @@ I build **scalable full-stack web applications** using modern technologies with 
 
 ### 🎨 Frontend
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>
-      React
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/><br/>
-      Redux
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>
-      HTML5
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>
-      CSS3
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>
-      JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/><br/>
-      Bootstrap
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/><br/>
-      Tailwind
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/react-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/react-light.svg">
+    <img src="./assets/tech/react-dark.svg" alt="React" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/redux-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/redux-light.svg">
+    <img src="./assets/tech/redux-dark.svg" alt="Redux" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/html5-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/html5-light.svg">
+    <img src="./assets/tech/html5-dark.svg" alt="HTML5" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/css3-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/css3-light.svg">
+    <img src="./assets/tech/css3-dark.svg" alt="CSS3" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/javascript-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/javascript-light.svg">
+    <img src="./assets/tech/javascript-dark.svg" alt="JavaScript" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/bootstrap-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/bootstrap-light.svg">
+    <img src="./assets/tech/bootstrap-dark.svg" alt="Bootstrap" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/tailwindcss-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/tailwindcss-light.svg">
+    <img src="./assets/tech/tailwindcss-dark.svg" alt="Tailwind CSS" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/ejs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/ejs-light.svg">
+    <img src="./assets/tech/ejs-dark.svg" alt="EJS" width="68" height="78">
+  </picture>
+</p>
 
 ### ⚙️ Backend
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/>
-      Node.js
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" width="45"/><br/>
-      Express
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/REST-00599C?style=flat&logo=swagger&logoColor=white"/><br/>
-      REST
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/EJS-A91E50?style=flat&logo=ejs&logoColor=white"/><br/>
-      EJS
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/nodejs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/nodejs-light.svg">
+    <img src="./assets/tech/nodejs-dark.svg" alt="Node.js" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/express-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/express-light.svg">
+    <img src="./assets/tech/express-dark.svg" alt="Express" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/rest-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/rest-light.svg">
+    <img src="./assets/tech/rest-dark.svg" alt="REST" width="68" height="78">
+  </picture>
+</p>
 
 ### 🗄️ Databases
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>
-      MongoDB
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>
-      MySQL
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/mongodb-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/mongodb-light.svg">
+    <img src="./assets/tech/mongodb-dark.svg" alt="MongoDB" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/mysql-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/mysql-light.svg">
+    <img src="./assets/tech/mysql-dark.svg" alt="MySQL" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/schema-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/schema-light.svg">
+    <img src="./assets/tech/schema-dark.svg" alt="Schema" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/crud-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/crud-light.svg">
+    <img src="./assets/tech/crud-dark.svg" alt="CRUD" width="68" height="78">
+  </picture>
+</p>
 
 ### 🧠 DSA
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>
-      C
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>
-      Java
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/c-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/c-light.svg">
+    <img src="./assets/tech/c-dark.svg" alt="C" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/java-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/java-light.svg">
+    <img src="./assets/tech/java-dark.svg" alt="Java" width="68" height="78">
+  </picture>
+</p>
 
 ### 🧩 OOP
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br/>
-      C++
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br/>
-      Java
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br/>
-      Python
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/c-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/c-light.svg">
+    <img src="./assets/tech/c-dark.svg" alt="C" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/cplusplus-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/cplusplus-light.svg">
+    <img src="./assets/tech/cplusplus-dark.svg" alt="C++" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/java-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/java-light.svg">
+    <img src="./assets/tech/java-dark.svg" alt="Java" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/python-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/python-light.svg">
+    <img src="./assets/tech/python-dark.svg" alt="Python" width="68" height="78">
+  </picture>
+</p>
 
 ### 🧰 Tools & Platforms
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br/>
-      Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="45"/><br/>
-      GitHub
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/><br/>
-      VS Code
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/><br/>
-      Postman
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat&logo=hoppscotch&logoColor=white"/><br/>
-      Hoppscotch
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/git-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/git-light.svg">
+    <img src="./assets/tech/git-dark.svg" alt="Git" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/github-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/github-light.svg">
+    <img src="./assets/tech/github-dark.svg" alt="GitHub" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/vscode-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/vscode-light.svg">
+    <img src="./assets/tech/vscode-dark.svg" alt="VS Code" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/api-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/api-light.svg">
+    <img src="./assets/tech/api-dark.svg" alt="API" width="68" height="78">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/hoppscotch-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech/hoppscotch-light.svg">
+    <img src="./assets/tech/hoppscotch-dark.svg" alt="Hoppscotch" width="68" height="78">
+  </picture>
+</p>
+
 
 ---
 
