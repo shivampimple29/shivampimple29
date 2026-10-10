@@ -35,7 +35,7 @@ jobs:
 
       # Publishes the generated SVGs to the 'output' branch
       - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.5.0
+        uses: crazy-max/ghaction-github-pages@v4.2.0
         with:
           target_branch: output
           build_dir: dist
