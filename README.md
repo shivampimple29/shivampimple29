@@ -241,7 +241,18 @@ Hands-on training in:
 
 </p>
 
+⭐ This profile showcases my journey as a **Full-Stack Web Developer** and my continuous learning through **real-world projects**.
+
 ---
 
-⭐ This profile showcases my journey as a **Full-Stack Web Developer** and my continuous learning through **real-world projects**.
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivampimple29/shivampimple29/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivampimple29/shivampimple29/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/shivampimple29/shivampimple29/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
 
