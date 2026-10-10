@@ -39,7 +39,11 @@ I build **scalable full-stack web applications** using modern technologies with 
     </td>
     <td align="center">
       <a href="https://github.com/shivampimple29">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="40"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+          <img src="https://cdn.simpleicons.org/github/181717" height="40"/>
+        </picture>
       </a><br/>
       <b>GitHub</b>
     </td>
@@ -132,14 +136,6 @@ I build **scalable full-stack web applications** using modern technologies with 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>
       MySQL
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Schema-2F4F4F?style=flat&logo=databricks&logoColor=white"/><br/>
-      Schema
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CRUD-6A5ACD?style=flat&logo=postgresql&logoColor=white"/><br/>
-      CRUD
-    </td>
   </tr>
 </table>
 
@@ -162,10 +158,6 @@ I build **scalable full-stack web applications** using modern technologies with 
 
 <table border="0">
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>
-      C
-    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br/>
       C++
@@ -201,7 +193,7 @@ I build **scalable full-stack web applications** using modern technologies with 
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/><br/>
-      API
+      Postman
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=flat&logo=hoppscotch&logoColor=white"/><br/>
@@ -225,11 +217,41 @@ Hands-on training in:
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏆 [EV Bharat](https://github.com/shivampimple29/EV-Bharat) — *Smart EV Charging Station Locator*
+> 🥇 **First Prize Winner in Software Category — Colloquium’26**
+
+- **Overview:** Interactive web platform designed to locate, filter, and navigate to real-time electric vehicle charging stations across India.
+- **Tech Stack:** `React` • `JavaScript` • `Python` • `HTML5/CSS3` • `Docker`
+- **Links:** [🌐 Live Demo](https://ev-bharat-mu.vercel.app) • [💻 GitHub Repository](https://github.com/shivampimple29/EV-Bharat)
+
+---
+
+### 🏡 [RestBNB](https://github.com/shivampimple29/restbnb) — *Full-Stack Vacation Rental Platform*
+
+- **Overview:** Full-stack vacation rental web platform inspired by Airbnb, featuring property listings, user authentication, reviews, and responsive booking workflows.
+- **Tech Stack:** `Node.js` • `Express.js` • `MongoDB` • `EJS` • `Bootstrap` • `RESTful APIs`
+- **Links:** [🌐 Live Demo](https://restbnb-rps2.onrender.com) • [💻 GitHub Repository](https://github.com/shivampimple29/restbnb)
+
+---
+
+### 📊 [ManageX](https://github.com/shivampimple29/ManageX) — *Admin Management Dashboard*
+
+- **Overview:** Scalable administrative portal engineered with modular MVC architecture, session management, and robust CRUD data management operations.
+- **Tech Stack:** `Node.js` • `Express.js` • `MongoDB` • `EJS` • `JavaScript` • `MVC`
+- **Links:** [🌐 Live Demo](https://managex-0rnv.onrender.com/) • [💻 GitHub Repository](https://github.com/shivampimple29/ManageX)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivampimple29&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shivam29s-projects.vercel.app/api?username=shivampimple29&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=8&cache_seconds=86400">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-shivam29s-projects.vercel.app/api?username=shivampimple29&show_icons=true&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=1f2328&icon_color=1a7f37&border_radius=8&cache_seconds=86400">
+    <img alt="Shivam's GitHub Stats" src="https://github-readme-stats-shivam29s-projects.vercel.app/api?username=shivampimple29&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=8&cache_seconds=86400" />
+  </picture>
 </p>
 
 ---
@@ -237,8 +259,11 @@ Hands-on training in:
 ## 🔤 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivampimple29&layout=compact&theme=tokyonight&cache_seconds=86400" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shivam29s-projects.vercel.app/api/top-langs/?username=shivampimple29&layout=compact&card_width=467&langs_count=6&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&border_radius=8&hide_border=false&cache_seconds=86400">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-shivam29s-projects.vercel.app/api/top-langs/?username=shivampimple29&layout=compact&card_width=467&langs_count=6&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=1f2328&border_radius=8&hide_border=false&cache_seconds=86400">
+    <img alt="Shivam's Most Used Languages" src="https://github-readme-stats-shivam29s-projects.vercel.app/api/top-langs/?username=shivampimple29&layout=compact&card_width=467&langs_count=6&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&border_radius=8&hide_border=false&cache_seconds=86400" />
+  </picture>
 </p>
 
 ---
