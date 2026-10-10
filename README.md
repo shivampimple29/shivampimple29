@@ -10,55 +10,44 @@
 
 # 👋 Hi, I'm Shivam S. Pimple
 
-### Full-Stack Web Developer (MERN) | Software Engineering Student
+### Full-Stack Developer | AI-Powered Applications | Software Engineering Student
 
-I build **scalable full-stack web applications** using modern technologies with a strong focus on:
+*I believe every challenging problem has a solution worth working toward.*
 
-- Clean architecture
-- Modular code
-- Real-world problem solving
-- Production-ready systems
+- Scalable full-stack development with MERN stack
+- Practical AI-powered applications and generative workflows
+- Applied LLMs, RAG architecture, and vector search
+- Persistent problem-solving through root-cause failure analysis
+- Building reliable software for real-world problems
+- Continuous learning driven by hands-on experimentation
 
 ---
 
 ## 🌐 Socials
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/shivampimple">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-      </a><br/>
-      <b>LinkedIn</b>
-    </td>
-    <td align="center">
-      <a href="mailto:shivampimple29@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="45"/>
-      </a><br/>
-      <b>Email</b>
-    </td>
-    <td align="center">
-      <a href="https://github.com/shivampimple29">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-          <img src="https://cdn.simpleicons.org/github/181717" height="40"/>
-        </picture>
-      </a><br/>
-      <b>GitHub</b>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech Information Technology (2024–2028)
-- 💻 Full-Stack Web Developer (MERN)
-- 🌱 Actively building real-world projects
-- 🛠️ Focused on backend APIs, frontend architecture & databases
-- 🎯 Goal: Production-ready Software Developer
+<p align="left">
+  <a href="https://www.linkedin.com/in/shivampimple">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/social/linkedin-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/social/linkedin-light.svg">
+      <img src="./assets/social/linkedin-dark.svg" alt="LinkedIn" width="68" height="78">
+    </picture>
+  </a>
+  <a href="mailto:shivampimple29@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/social/email-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/social/email-light.svg">
+      <img src="./assets/social/email-dark.svg" alt="Email" width="68" height="78">
+    </picture>
+  </a>
+  <a href="https://github.com/shivampimple29">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/social/github-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/social/github-light.svg">
+      <img src="./assets/social/github-dark.svg" alt="GitHub" width="68" height="78">
+    </picture>
+  </a>
+</p>
 
 ---
 
