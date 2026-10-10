@@ -204,71 +204,20 @@ I build **scalable full-stack web applications** using modern technologies with 
 
 ---
 
-## 🎓 Professional Training
-
-**Full-Stack Web Development (MERN)** — _Apna College (Sigma 8 Batch)_  
-Hands-on training in:
-
-- MERN stack development
-- React frontend architecture
-- RESTful backend APIs
-- Database design
-- End-to-end full-stack workflows
-
----
-
-## 🚀 Featured Projects
-
-### 🏆 [EV Bharat](https://github.com/shivampimple29/EV-Bharat) — *Smart EV Charging Station Locator*
-> 🥇 **First Prize Winner in Software Category — Colloquium’26**
-
-- **Overview:** Interactive web platform designed to locate, filter, and navigate to real-time electric vehicle charging stations across India.
-- **Tech Stack:** `React` • `JavaScript` • `Python` • `HTML5/CSS3` • `Docker`
-- **Links:** [🌐 Live Demo](https://ev-bharat-mu.vercel.app) • [💻 GitHub Repository](https://github.com/shivampimple29/EV-Bharat)
-
----
-
-### 🏡 [RestBNB](https://github.com/shivampimple29/restbnb) — *Full-Stack Vacation Rental Platform*
-
-- **Overview:** Full-stack vacation rental web platform inspired by Airbnb, featuring property listings, user authentication, reviews, and responsive booking workflows.
-- **Tech Stack:** `Node.js` • `Express.js` • `MongoDB` • `EJS` • `Bootstrap` • `RESTful APIs`
-- **Links:** [🌐 Live Demo](https://restbnb-rps2.onrender.com) • [💻 GitHub Repository](https://github.com/shivampimple29/restbnb)
-
----
-
-### 📊 [ManageX](https://github.com/shivampimple29/ManageX) — *Admin Management Dashboard*
-
-- **Overview:** Scalable administrative portal engineered with modular MVC architecture, session management, and robust CRUD data management operations.
-- **Tech Stack:** `Node.js` • `Express.js` • `MongoDB` • `EJS` • `JavaScript` • `MVC`
-- **Links:** [🌐 Live Demo](https://managex-0rnv.onrender.com/) • [💻 GitHub Repository](https://github.com/shivampimple29/ManageX)
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shivam29s-projects.vercel.app/api?username=shivampimple29&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=8&cache_seconds=86400">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-shivam29s-projects.vercel.app/api?username=shivampimple29&show_icons=true&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=1f2328&icon_color=1a7f37&border_radius=8&cache_seconds=86400">
-    <img alt="Shivam's GitHub Stats" src="https://github-readme-stats-shivam29s-projects.vercel.app/api?username=shivampimple29&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=8&cache_seconds=86400" />
+    <img alt="Shivam's GitHub Stats" src="https://github-readme-stats-shivam29s-projects.vercel.app/api?username=shivampimple29&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=8&cache_seconds=86400" height="160" />
   </picture>
-</p>
-
----
-
-## 🔤 Most Used Languages
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shivam29s-projects.vercel.app/api/top-langs/?username=shivampimple29&layout=compact&card_width=467&langs_count=6&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&border_radius=8&hide_border=false&cache_seconds=86400">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-shivam29s-projects.vercel.app/api/top-langs/?username=shivampimple29&layout=compact&card_width=467&langs_count=6&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=1f2328&border_radius=8&hide_border=false&cache_seconds=86400">
-    <img alt="Shivam's Most Used Languages" src="https://github-readme-stats-shivam29s-projects.vercel.app/api/top-langs/?username=shivampimple29&layout=compact&card_width=467&langs_count=6&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&border_radius=8&hide_border=false&cache_seconds=86400" />
+    <img alt="Shivam's Most Used Languages" src="https://github-readme-stats-shivam29s-projects.vercel.app/api/top-langs/?username=shivampimple29&layout=compact&card_width=467&langs_count=6&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&border_radius=8&hide_border=false&cache_seconds=86400" height="160" />
   </picture>
 </p>
 
----
 
-## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
