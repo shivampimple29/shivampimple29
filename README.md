@@ -26,7 +26,7 @@ I build **scalable full-stack web applications** using modern technologies with 
 <table border="0">
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/shivam-pimple-894201316">
+      <a href="https://www.linkedin.com/in/shivampimple">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
       </a><br/>
       <b>LinkedIn</b>
@@ -240,8 +240,6 @@ Hands-on training in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivampimple29&layout=compact&theme=tokyonight&cache_seconds=86400" />
 
 </p>
-
-⭐ This profile showcases my journey as a **Full-Stack Web Developer** and my continuous learning through **real-world projects**.
 
 ---
 

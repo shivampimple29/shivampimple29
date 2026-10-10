@@ -22,6 +22,9 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       # Generates the snake animation SVGs from the GitHub user's contribution grid
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
@@ -32,6 +35,10 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Adjusts the loading bar color progression to the 4 GitHub contribution green shades
+      - name: Adjust Loading Bar Color Progression
+        run: node scripts/adjust_loading_bar.js dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
 
       # Publishes the generated SVGs to the 'output' branch
       - name: Deploy to Output Branch
